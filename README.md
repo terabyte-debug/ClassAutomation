@@ -13,8 +13,9 @@ Image Processing is used to convert all the messages in the chatbox into an arra
 # Usage 
 
 Step 1: First install all the requirements using pip
+<p>
 Note: This code supports only python3
-
+</p>
 Step 2: After installing all the requirements use the command python3 bunk_bot.py
 
 ### Changing the coordinates in PyAutoGUI is more than enough to implement this code on Google Meet, Zoom Meetings, Microsoft Teams or any other software you use to attend class.
